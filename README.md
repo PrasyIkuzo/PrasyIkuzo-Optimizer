@@ -31,9 +31,13 @@ ___________________________________________________________________
 
 **More Coming Soon!**
 
+___________________________________________________________________
+
 ## 💨 COMPATIBILITY
 - ZTweaks Can Only Run On Windows 10 and Windows 11.
 - Custom Windows (Tweaked For Gaming).
+
+___________________________________________________________________
 
 ## 🌐 MY SOCIAL MEDIA
 <p align=center>
