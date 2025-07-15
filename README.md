@@ -4,7 +4,7 @@
 
 <div align="center"><h3>CODE RE-WRITING THIS YEAR❗️</h3></div>
 
-## 🍻 Buy Me A Coffee
+## 🍻 **Buy Me A Coffee**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
@@ -12,7 +12,7 @@
 
 ___________________________________________________________________
 
-## 🌟 FEATURES
+## 🌟 **FEATURES**
 - Removing debloat apps from Microsoft Store.
 - Optimizes WiFi and Ethernet for lowest ping and packet loss.
 - PC Cleaner which cleans the registry and junk files from your computer.
@@ -33,13 +33,13 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## 💨 COMPATIBILITY
+## 💨 **COMPATIBILITY**
 - ZTweaks Can Only Run On Windows 10 and Windows 11.
 - Custom Windows (Tweaked For Gaming).
 
 ___________________________________________________________________
 
-## 🌐 MY SOCIAL MEDIA
+## 🌐 **MY SOCIAL MEDIA**
 <p align=center>
     <a href="https://instagram.com/prasy_ikuzoreal" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
@@ -60,3 +60,5 @@ ___________________________________________________________________
     <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
             src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
+
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
