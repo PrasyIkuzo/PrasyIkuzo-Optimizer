@@ -2,15 +2,13 @@
 
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo-Optimizer/blob/main/images/preview.png)
 
+<div align="center"><h3>CODE RE-WRITING THIS YEAR❗️</h3></div>
+
 ## 🍻 Buy Me A Coffee
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
 [![Saweria](https://img.shields.io/badge/Click--Here-white?style=for-the-badge&logo=saweria)](https://saweria.co/PrasyIkuzo)
-
-___________________________________________________________________
-
-<div align="center"><h3>CODE RE-WRITING THIS YEAR❗️</h3></div>
 
 ___________________________________________________________________
 
