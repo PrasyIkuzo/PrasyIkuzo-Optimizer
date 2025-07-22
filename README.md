@@ -37,7 +37,6 @@ ___________________________________________________________________
 - ZTweaks Can Only Run On Windows 10 and Windows 11.
 - Custom Windows (Tweaked For Gaming).
 
-___________________________________________________________________
+<br>
 
-## 👋 **Se You Next Time**
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+![Dinosaurs 🗿](https://github.com/PrasyIkuzo/PrasyIkuzo-Optimizer/blob/main/images/dino.gif)
